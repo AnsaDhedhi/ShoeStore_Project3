@@ -4,7 +4,11 @@ function About() {
 
   return (
 	<div>
-		<h1>Welcome to About</h1>
+
+		<h1>About</h1>
+		<hr/>
+		<hr style={{ height:"2px",  color:"blue" }} />
+		<hr/>
 	</div>
   );
 }

@@ -6,7 +6,10 @@ function Product() {
 
     return (
         <div>
-            
+            <h1>Products</h1>
+            <hr/>
+		<hr style={{ height:"2px",  color:"blue" }} />
+		<hr/>
             <div className="productContainer">
                 {Object.keys(Shoes).map(keyName=>{
                     const shoe = Shoes[keyName];

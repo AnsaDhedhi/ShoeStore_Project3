@@ -1,10 +1,14 @@
 import React from 'react';
+import '../App.css';
 
 function Home() {
 
   return (
 	<div>
-		<h1>Welcome to Home</h1>
+		<h1>Welcome to Home Page</h1>
+		<hr/>
+		<hr style={{ height:"2px",  color:"blue" }} />
+		<hr/>
 	</div>
   );
 }
