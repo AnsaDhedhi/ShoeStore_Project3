@@ -16,7 +16,7 @@ function Button() {
 
           </Link>
           <Carousel.Caption>
-            <h3 style={{ color: "Crimson" }}>Men Collection</h3>
+            <h3 style={{ color: "Crimson" }}>Men Shoe Collection</h3>
 
           </Carousel.Caption>
         </Carousel.Item>
@@ -26,7 +26,7 @@ function Button() {
           </Link>
 
           <Carousel.Caption>
-          <h3 style={{ color: "Crimson" }}>Women Collection</h3>
+          <h3 style={{ color: "Crimson" }}>Women Shoe Collection</h3>
 
           </Carousel.Caption>
         </Carousel.Item>
@@ -35,7 +35,7 @@ function Button() {
           <img className="item" src="/children.jpg" alt="Children" width="400px" height="350px" />
           </Link>
           <Carousel.Caption>
-          <h3 style={{ color: "Crimson" }}>Children Collection</h3>
+          <h3 style={{ color: "Crimson" }}>Children Shoe Collection</h3>
           </Carousel.Caption>
         </Carousel.Item>
       </Carousel>

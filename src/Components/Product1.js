@@ -13,7 +13,7 @@ function Product1() {
     // console.log(categ)
     return (
         <div>
-            <h1> {id} Collection</h1>
+            <h1> {id} Shoe Collection</h1>
             <div className="productContainer">
                 {Object.keys(categ).map(keyName => {
                     const shoes = categ[keyName];

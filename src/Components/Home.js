@@ -4,11 +4,11 @@ import '../App.css';
 function Home() {
 
   return (
-	<div>
+	<div >
 		<h1>Welcome to Home Page</h1>
-		<hr/>
-		<hr style={{ height:"2px",  color:"blue" }} />
-		<hr/>
+		<hr />
+		<hr />
+		<hr />
 	</div>
   );
 }
