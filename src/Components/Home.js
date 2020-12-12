@@ -3,14 +3,15 @@ import '../App.css';
 
 function Home() {
 
-  return (
-	<div >
-		<h1>Welcome to Home Page</h1>
-		<hr />
-		<hr />
-		<hr />
-	</div>
-  );
+	return (
+		<div >
+			<h1>Welcome to Home Page</h1>
+			<hr />
+			<hr />
+			<hr />
+			<hr />
+		</div>
+	);
 }
 
 export default Home;
